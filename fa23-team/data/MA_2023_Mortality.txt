@@ -1,0 +1,53 @@
+"Notes"	"Residence State"	"Residence State Code"	"Residence County"	"Residence County Code"	Deaths	Population	Crude Rate
+	"Massachusetts"	"25"	"Barnstable County, MA"	"25001"	2453	232411	1055.5
+	"Massachusetts"	"25"	"Berkshire County, MA"	"25003"	1312	128657	1019.8
+	"Massachusetts"	"25"	"Bristol County, MA"	"25005"	4380	580164	755.0
+	"Massachusetts"	"25"	"Dukes County, MA"	"25007"	122	21097	578.3
+	"Massachusetts"	"25"	"Essex County, MA"	"25009"	5588	807074	692.4
+	"Massachusetts"	"25"	"Franklin County, MA"	"25011"	599	71015	843.5
+	"Massachusetts"	"25"	"Hampden County, MA"	"25013"	3793	462718	819.7
+	"Massachusetts"	"25"	"Hampshire County, MA"	"25015"	1054	161572	652.3
+	"Massachusetts"	"25"	"Middlesex County, MA"	"25017"	9244	1614742	572.5
+	"Massachusetts"	"25"	"Nantucket County, MA"	"25019"	75	14491	517.6
+	"Massachusetts"	"25"	"Norfolk County, MA"	"25021"	4759	724505	656.9
+	"Massachusetts"	"25"	"Plymouth County, MA"	"25023"	3950	533003	741.1
+	"Massachusetts"	"25"	"Suffolk County, MA"	"25025"	3658	771245	474.3
+	"Massachusetts"	"25"	"Worcester County, MA"	"25027"	5883	862029	682.5
+"Total"	"Massachusetts"	"25"			46870	6984723	671.0
+"Total"					46870	6984723	671.0
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"Residence States: Massachusetts (25)"
+"Year/Month: 2023 (provisional and partial)"
+"Group By: Residence State; Residence County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Oct 26, 2023 8:17:12 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2021,"
+"and from provisional data for years 2022-2023, as compiled from data provided by the 57 vital statistics jurisdictions through"
+"the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Oct 26, 2023 8:17:12"
+"PM"
+"---"
+Caveats:
+"1. The population figures for years 2021 and later are single-race estimates of the July 1 resident population, based on the"
+"Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count, from the Vintage 2021"
+"postcensal series released by the Census Bureau on June 30, 2022. The population figures for year 2020 are single-race estimates"
+"of the July 1 resident population, from the Vintage 2020 postcensal series based on April 2010 Census, released by the Census"
+"Bureau on July 27, 2021. The population figures for year 2019 are single-race estimates of the July 1 resident population, from"
+"the Vintage 2019 postcensal series based on April 2010 Census, released by the Census Bureau on June 25, 2020. The population"
+"figures for year 2018 are single-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series based"
+"on April 2010 Census, released by the Census Bureau on June 20, 2019. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Population Data."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Age"
+"Group."
+"3. Deaths occurring through October 14, 2023 as of October 22, 2023."
